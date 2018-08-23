@@ -78,7 +78,7 @@ https://www.kaggle.com/c/landmark-retrieval-challenge
 
 
 
-# OpenSourses
+# Open Source Projects
 
 * https://github.com/filipradenovic/cnnimageretrieval-pytorch
 * https://github.com/figitaki/deep-retrieval
